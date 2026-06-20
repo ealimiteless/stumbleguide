@@ -1,6 +1,3 @@
-Here is the structured 10-step strategic guide formatted cleanly as a JSON object, ready to be integrated into your GitHub repository documentation or wiki pages.
-
-```json
 {
   "game_guide": {
     "title": "Ultimate Stumble Guys Competitive Strategy Guide",
@@ -71,5 +68,3 @@ Here is the structured 10-step strategic guide formatted cleanly as a JSON objec
     ]
   }
 }
-
-```
